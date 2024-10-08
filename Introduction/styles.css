@@ -1,0 +1,44 @@
+h1{
+    color:aqua;
+    font-family:Arial, Helvetica, sans-serif;
+    
+    background-size: contain;
+    font-weight:bolder;
+    font-size:18px;
+    text-align:center;
+
+}
+
+h3{
+    color:gold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:black;
+    background-size: contain;
+    font-weight:bold;
+    font-size:15px;
+    text-align:left;
+
+}
+
+body{
+    color:aliceblue;
+    background-image: url(img3.jpeg);
+    background-size: cover;
+
+}
+
+.container{
+    margin: 10px;
+    padding: 20px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.container1{
+    margin: 10px;
+    padding: 20px;
+    width: 400px;
+    border: 2px solid black;
+    align-content: center;
+}
